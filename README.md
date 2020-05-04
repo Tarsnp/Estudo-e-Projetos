@@ -1,6 +1,6 @@
 Desafio Python Codenation
 
-![codenation](codenation.png)
+![codenation](codenation.PNG)
 
 Instruções:
 
